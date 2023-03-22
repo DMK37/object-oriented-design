@@ -1,0 +1,6 @@
+/Users/dima/RiderProjects/ProgOb/ProgOb/bin/Debug/ProgOb.exe
+/Users/dima/RiderProjects/ProgOb/ProgOb/bin/Debug/ProgOb.pdb
+/Users/dima/RiderProjects/ProgOb/ProgOb/obj/Debug/ProgOb.csproj.AssemblyReference.cache
+/Users/dima/RiderProjects/ProgOb/ProgOb/obj/Debug/ProgOb.csproj.CoreCompileInputs.cache
+/Users/dima/RiderProjects/ProgOb/ProgOb/obj/Debug/ProgOb.exe
+/Users/dima/RiderProjects/ProgOb/ProgOb/obj/Debug/ProgOb.pdb
